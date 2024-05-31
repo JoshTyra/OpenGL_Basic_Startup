@@ -1,0 +1,40 @@
+# Ignore build directories
+/x64/
+/OpenGL_Basic_Startup/x64/
+build/
+bin/
+obj/
+
+# Ignore Visual Studio files
+*.user
+*.suo
+*.log
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore Visual Studio Code and JetBrains files
+.vs/
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+.DS_Store
+
+# Ignore any other unwanted files/folders
+*.class
+*.jar
+*.war
